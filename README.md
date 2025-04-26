@@ -10,7 +10,7 @@ There are some bugs like logging multiple times of pressing special keys, e.g
 11:13:13:008: R_SHIFT + R_SHIFT
 11:13:13:042: R_SHIFT + R_SHIFT
 11:13:13:077: R_SHIFT + R_SHIFT
-but it means key has been held down 
+but it means key has been held down certain time
 
 IMPORANT!
 As all of my scripts, this was created just for curiosity and learning purposes. I'm not responsible for illegal use of this script. 
